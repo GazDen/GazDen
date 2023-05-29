@@ -1,9 +1,10 @@
-<h2 align="center">Hi there 👋, I'm</h2>
+<h2 align="center">Hi there, I'm</h1>
 
 ![](https://github.com/GazDen/GazDen/blob/main/LAYNE_LOGO2-small.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,express,nodejs,java,php,laravel,mysql,py" />
+  </a>
+</p>
