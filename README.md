@@ -1,4 +1,3 @@
-<h2 align="center">Hi there, I'm</h1>
 
 ![](https://github.com/GazDen/GazDen/blob/main/LAYNE_LOGOthin.png)
 
