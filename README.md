@@ -1,4 +1,4 @@
-### <p align:"center">Hi there 👋, I'm</p>
+<p align="center">Hi there 👋, I'm</p>
 
 ![](https://github.com/GazDen/GazDen/blob/main/LAYNE_LOGO2-small.png)
 
